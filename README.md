@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishalJayesh
 - 👀 I’m interested in software devlopment
-- 🌱 I’m currently learning Devlopment
-- 💞️ I’m looking to collaborate on software devlopment
+- 🌱 I’m currently learning Full stack devlopment
+- 💞️ I’m looking to collaborate on software devlopment organizations.
 - 📫 How to reach me by email vt30949@gmail.com
 
 <!---
